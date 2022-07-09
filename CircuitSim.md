@@ -10,7 +10,7 @@ The simulator itself was designed to be fully compatible with LTspice's netlist,
 
 ## Links
 
-[Repo for code and sim]([https://github.com/ck1419/ATX_PowerSupply](https://github.com/ck1419/Rectifiers-Group-Project))
+[Repo for code and sim](https://github.com/ck1419/Rectifiers-Group-Project)
 
 [My teammate](https://github.com/yannichau)
 
