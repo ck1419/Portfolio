@@ -1,36 +1,45 @@
 ## Chackrarat Kitikul
 
-### My Skills
+### Softwares Used
 
 Microsoft Word - Experienced
 
 Microsoft Excel - Experienced
 
+Microsoft Powerpoint - Experienced
 
-```markdown
-Syntax highlighted code block
+Github - Experienced
 
-# Header 1
-## Header 2
-### Header 3
+LTspice - Experienced
 
-- Bulleted
-- List
+Quartus - Familiar
 
-1. Numbered
-2. List
+### Programming Languages
 
-**Bold** and _Italic_ and `Code` text
+C++ - Experienced
 
-[Link](url) and ![Image](src)
-```
+F# - Experienced
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+MATLAB - Experienced
 
-### Jekyll Themes
+Prolog - Familiar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ck1419/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Python - Familiar
 
-### Support or Contact
+### Previous Projects
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Basic Circuit Simulator]()
+
+[Remote Controllable Rover]()
+
+[ATX Power Supply]()
+
+[Robotic Arm]()
+
+[ISSIE Circuit Simulator]()
+
+[Soft Switching Power Supply]()
+
+### Contact Me
+
+Email: ck1419@ic.ac.uk
