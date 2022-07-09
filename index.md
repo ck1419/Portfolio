@@ -1,6 +1,6 @@
 ## Chackrarat Kitikul
 
-### Softwares Used
+### Software
 
 Microsoft Word - Experienced
 
@@ -28,17 +28,18 @@ Python - Familiar
 
 ### Previous Projects
 
-[Basic Circuit Simulator]()
+[Basic Circuit Simulator](CircuitSim.md)
 
-[Remote Controllable Rover]()
+[Remote Controllable Rover](Rover.md)
 
-[ATX Power Supply]()
+[ATX Power Supply](ATX.md)
 
-[Robotic Arm]()
+[Robotic Arm](RoboticArm.md)
 
-[ISSIE Circuit Simulator]()
+[ISSIE Circuit Simulator](Issie.md)
 
-[Soft Switching Power Supply]()
+[Soft Switching Power Supply](SoftSwitching.md)
+
 
 ### Contact Me
 
