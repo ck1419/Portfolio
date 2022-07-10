@@ -1,11 +1,10 @@
-### About Me
+## About Me
 
 I’m a third-year student from Thailand studying Electrical and Electronics Engineering at imperial college for a master’s degree. 
 
 I have an interest in the energy market, along with EVs. I plan on taking ‘energy system economics’ as an optional fourth year course to follow up on this interest. I am also interested in programming and have chosen programming modules when possible, along with some experimentation on my own outside of my courses.
 
-
-### Software
+## Software
 
 Microsoft Word - Experienced
 
@@ -19,7 +18,7 @@ LTspice - Experienced
 
 Quartus - Familiar
 
-### Programming Languages
+## Programming Languages
 
 C++ - Experienced
 
@@ -31,7 +30,7 @@ Prolog - Familiar
 
 Python - Familiar
 
-### Previous Projects
+## Previous Projects
 
 [Basic Circuit Simulator](CircuitSim.md)
 
@@ -46,6 +45,6 @@ Python - Familiar
 [Soft Switching Power Supply](SoftSwitching.md)
 
 
-### Contact Me
+## Contact Me
 
 Email: ck1419@ic.ac.uk
