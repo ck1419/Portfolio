@@ -20,6 +20,8 @@ This project aimed to create a 4DOF manipulatable robotic arm using inverse kine
 
 ## Images
 
+![Robotic Arm](RoboticArm_Images/RoboticArm.png)
+
 ## Links
 
 [Repo for code and sim](https://github.com/ib619/DORAEMON)

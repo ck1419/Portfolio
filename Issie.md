@@ -29,11 +29,11 @@ These changes included:
 - Changed the data type for symbols
 - Optimized the algorithm for calculating component overlaps
 
-## Images
-
 ## Links
 
-[Repo for code](https://github.com/zd819/Issie-HLP-Project)
+[Link to original ISSIE](https://tomcl.github.io/issie/)
+
+[Repo for improved ISSIE](https://github.com/zd819/Issie-HLP-Project)
 
 [My teammate](https://github.com/ck1419/Portfolio/new/gh-pages)
 

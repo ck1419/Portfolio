@@ -20,8 +20,6 @@ This project was intended to mimic LTspice's basic capabilities with simulating 
 
 The simulator itself was designed to be fully compatible with LTspice's netlist, and the resulting values from a steady state simulation are the same.
 
-## Images
-
 ## Links
 
 [Repo for code and sim](https://github.com/ck1419/Rectifiers-Group-Project)

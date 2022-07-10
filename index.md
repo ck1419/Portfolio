@@ -44,7 +44,6 @@ Python - Familiar
 
 [Soft Switching Power Supply](SoftSwitching.md)
 
-
 ## Contact Me
 
 Email: ck1419@ic.ac.uk
