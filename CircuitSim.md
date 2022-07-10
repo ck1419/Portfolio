@@ -1,8 +1,8 @@
 # Basic Circuit Simulation Software
 
-## Page Links
+## Portfolio Pages
 
-[Home Page](Index.md)
+[Home Page](index.md)
 
 [Remote Controllable Rover](Rover.md)
 
