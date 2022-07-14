@@ -26,6 +26,8 @@ F# - Experienced
 
 MATLAB - Experienced
 
+Verilog - Familiar
+
 Prolog - Familiar
 
 Python - Familiar
