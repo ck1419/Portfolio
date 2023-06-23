@@ -8,17 +8,13 @@
 
 This project attempts to formulate a high voltage direct current (HVDC) modular multilevel converter (MMC) as a power flow problem that can be solved numerically. This process includes making a model for a single-phase single-arm converter, which can then be scaled up into a single-phase two-arm converter and then the final three-phase six-arm converter.
 
-## Images From The Project
-
-Three-Phase HVDC Converter Model
+## Three-Phase Results
 
 ![Three-Phase Model](HVDC_Images/3phase_model.png)
 
-Operational region of a three-phase six-arm Results using the Xiangjiaba-Shanghai HVDC converter's parameters
+![Three-Phase Full-Bridge](HVDC_Images/fullbridge.png)
 
-![Three-Phase Half-Bridge HVDC](HVDC_Images/3phase_half_hvdc.png) ![Three_Phase Half-Bridge Grid](HVDC_Images/3phase_half_grid.png)
-
-![Three-Phase Full-Bridge HVDC](HVDC_Images/3phase_full_hvdc.png) ![Three_Phase Full-Bridge Grid](HVDC_Images/3phase_full_grid.png)
+![Three-Phase Half-Bridge](HVDC_Images/halfbridge.png)
 
 ## Project Links
 
