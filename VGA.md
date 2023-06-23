@@ -16,6 +16,6 @@ The designed VGA is a differential output, continuously variable, linear-in-dB v
 
 ![Block Diagram](VGA_Images/block.png)
 
-![Gain VS Vctrl](VGA_Images/image1.png)
+![Gain VS Vctrl](VGA_Images/image2.png)
 
-![Gain Error/Bandwidth](VGA_Images/image2.png)
+![Gain Error/Bandwidth](VGA_Images/image1.png)
