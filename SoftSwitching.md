@@ -4,16 +4,6 @@
 
 [Home Page](index.md)
 
-[Remote Controllable Rover](Rover.md)
-
-[ATX Power Supply](ATX.md)
-
-[Robotic Arm](RoboticArm.md)
-
-[ISSIE Circuit Simulator](Issie.md)
-
-[Soft Switching Power Supply](SoftSwitching.md)
-
 ## Project Summary
 
 The goal of this project is to directly improve the efficiency of a regular boost converter by adding soft switching capabilities to reduce the losses incurred during MOSFET switching.
