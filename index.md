@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a third-year student from Thailand studying Electrical and Electronics Engineering at imperial college for a master’s degree. 
+I’m a fourth-year student from Thailand studying Electrical and Electronics Engineering at Imperial College for a master’s degree. I will be graduating in 2023.
 
 I have an interest in the energy market, along with EVs. I plan on taking ‘energy system economics’ as an optional fourth year course to follow up on this interest. I am also interested in programming and have chosen programming modules when possible, along with some experimentation on my own outside of my courses.
 
@@ -32,6 +32,36 @@ Prolog - Familiar
 
 Python - Familiar
 
+## Third Year Courses
+
+Analogue Integrated Circuits and Systems
+
+Artificial Intelligence
+
+Control Engineering
+
+Electrical Energy Systems
+
+High Level Programming
+
+Power Electronics
+
+Robotic Manipulation
+
+## Fourth Year Courses
+
+Power System Economics
+
+HVDC Technology and Control
+
+Stability and Control of Non-linear Systems
+
+Full-Custom Integrated Circuit Design
+
+Sustainable Electrical Systems
+
+Power System Dynamics Stability and Control
+
 ## Previous Projects
 
 [Basic Circuit Simulator](CircuitSim.md)
@@ -46,6 +76,10 @@ Python - Familiar
 
 [Soft Switching Power Supply](SoftSwitching.md)
 
+[Analogue Variable Gain Amplifier Chip Design](VGA.md)
+
+[Energy Control of a Modular Multilevel Converter for HVDC using an Optimal Power Flow Algorithm](HVDCMMC.md)
+
 ## Contact Me
 
-Email: ck1419@ic.ac.uk
+Email: ck1419@ic.ac.uk or chackrarat@outlook.com
