@@ -2,19 +2,15 @@
 
 I’m a fourth-year student from Thailand studying Electrical and Electronics Engineering at Imperial College for a master’s degree. I will be graduating in 2023.
 
-I have an interest in the energy market, along with EVs. I plan on taking ‘energy system economics’ as an optional fourth year course to follow up on this interest. I am also interested in programming and have chosen programming modules when possible, along with some experimentation on my own outside of my courses.
+I have an interest in the energy market, along with EVs. I am also interested in programming and have chosen programming modules when possible, along with some experimentation on my own outside of my courses.
 
 ## Software
 
-Microsoft Word - Experienced
-
-Microsoft Excel - Experienced
-
-Microsoft Powerpoint - Experienced
-
-Github - Experienced
-
 LTspice - Experienced
+
+Cadence - Experienced
+
+AutoCAD - Familiar
 
 Quartus - Familiar
 
@@ -26,11 +22,15 @@ F# - Experienced
 
 MATLAB - Experienced
 
+Git - Experienced
+
 Verilog - Familiar
 
 Prolog - Familiar
 
 Python - Familiar
+
+SQL - Familiar
 
 ## Third Year Courses
 
@@ -82,4 +82,4 @@ Power System Dynamics Stability and Control
 
 ## Contact Me
 
-Email: ck1419@ic.ac.uk or chackrarat@outlook.com
+Email: chackrarat@outlook.com
