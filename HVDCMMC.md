@@ -12,13 +12,13 @@ This project attempts to formulate a high voltage direct current (HVDC) modular 
 
 Three-Phase HVDC Converter Model
 
-![Three-Phase Model](HVDC_images/3phase_model.png)
+![Three-Phase Model](HVDC_Images/3phase_model.png)
 
 Operational region of a three-phase six-arm Results using the Xiangjiaba-Shanghai HVDC converter's parameters
 
-![Three-Phase Half-Bridge HVDC](HVDC_images/3phase_half_hvdc.png) ![Three_Phase Half-Bridge Grid](HVDC_images/3phase_half_grid.png)
+![Three-Phase Half-Bridge HVDC](HVDC_Images/3phase_half_hvdc.png) ![Three_Phase Half-Bridge Grid](HVDC_Images/3phase_half_grid.png)
 
-![Three-Phase Full-Bridge HVDC](HVDC_images/3phase_full_hvdc.png) ![Three_Phase Full-Bridge Grid](HVDC_images/3phase_full_grid.png)
+![Three-Phase Full-Bridge HVDC](HVDC_Images/3phase_full_hvdc.png) ![Three_Phase Full-Bridge Grid](HVDC_Images/3phase_full_grid.png)
 
 ## Project Links
 
